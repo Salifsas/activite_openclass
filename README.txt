@@ -1,2 +1,2 @@
 # activite_openclass
-activite du site openclassroom
+ceci est un projet pour visant a pratiquer sur git 
